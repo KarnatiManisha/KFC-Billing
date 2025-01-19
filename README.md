@@ -1,4 +1,3 @@
-# KFC-Billing
 # KFC Billing Counter
 
 ## Overview
